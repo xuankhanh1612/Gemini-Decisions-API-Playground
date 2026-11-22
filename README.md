@@ -1,11 +1,14 @@
-<div align="center">
+# Gemini Decisions API Playground
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Try the Gemini Decisions API: ask boolean, choice and score questions about
+text, images, audio, video and PDFs, and get calibrated probabilities back in
+one call.
 
-  <h1>Built with AI Studio</h2>
+- `npm run dev` serves the playground on port 3000.
+- The page calls `POST https://generativelanguage.googleapis.com/v1beta/decisions`
+  directly with the `gemini-decision-1` model. AI Studio supplies the API key.
+- If the API can't be used, the six examples still show answers recorded from
+  the live model.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+The UI is plain JavaScript (Preact + htm, vendored) in `public/`, with no build
+step of its own.

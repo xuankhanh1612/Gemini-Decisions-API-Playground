@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1168 >>
+stream
+BT
+54 730 Td
+22 TL
+/F2 16 Tf (BISTRO LUMIERE - SAN FRANCISCO, CA) Tj T*
+/F1 11 Tf (Receipt #INV-2026-9042   |   Date: 2026-10-29 20:45 PDT) Tj T*
+/F1 11 Tf (Submitted by: Alex Rivera \(Engineering\)   |   Attendees: 2 employees) Tj T*
+/F1 11 Tf (--------------------------------------------------------------------) Tj T*
+/F2 12 Tf (ITEMIZED CHARGES) Tj T*
+/F1 11 Tf (2x Chef Tasting Menu Dinner                        $190.00) Tj T*
+/F1 11 Tf (1x Reserve Cabernet Sauvignon Bottle \(Alcohol\)     $165.00) Tj T*
+/F1 11 Tf (2x Craft Cocktails \(Alcohol\)                        $44.00) Tj T*
+/F1 11 Tf (Subtotal                                           $399.00) Tj T*
+/F1 11 Tf (CA Sales Tax \(8.625%\)                               $34.41) Tj T*
+/F1 11 Tf (Gratuity \(22%\)                                      $87.78) Tj T*
+/F1 11 Tf (--------------------------------------------------------------------) Tj T*
+/F2 13 Tf (TOTAL CHARGED TO CORP VISA *8814:                  $521.19) Tj T*
+/F1 11 Tf (Per-person spend: $260.60 / person \(Policy cap: $75.00 / person\)) Tj T*
+/F1 11 Tf (Notes: Unapproved luxury alcohol charges \($209.00\) exceed T&E policy.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001471 00000 n 
+0000001541 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1616
+%%EOF
